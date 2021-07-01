@@ -1,0 +1,1 @@
+exports.PRESS_FEE = 12345;
